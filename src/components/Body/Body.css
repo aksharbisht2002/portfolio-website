@@ -1,0 +1,48 @@
+.body {
+  background: url('/src/assets/bodyimage7.jpg') no-repeat center center/cover;
+  height: 100vh;
+  position: relative;
+}
+
+.overlay {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100%;
+  background: rgba(102, 96, 96, 0.267);
+  text-align: center;
+  transition: color 0.3s ease-in-out;
+}
+
+.overlay h1 {
+  font-size: 4rem;
+  margin: 0;
+  opacity: 0.7;
+  transform: translateY(20px);
+  transition: all 0.5s ease-in-out;
+  color: #FFFFFF;;
+}
+
+.overlay p {
+  font-size: 1.5rem;
+  margin-top: 0.5rem;
+  opacity: 0.7;
+  transform: translateY(10px);
+  transition: all 0.5s ease-in-out;
+  
+}
+
+.body .social-links {
+  margin-top: 1.5rem;
+}
+
+.body .social-links a {
+  margin: 0 0.5rem;
+  color: inherit;
+  transition: color 0.3s ease;
+}
+
+.body .social-links a:hover {
+  color: #ffcb05;
+}
