@@ -1,4 +1,122 @@
-# Getting Started with Create React App
+
+# Portfolio Website
+
+Welcome to my personal portfolio website repository! This project showcases my skills, projects, and experiences as a software engineer and serves as a digital representation of my professional journey.
+
+![Portfolio Preview](https://aksharbisht2002.github.io/portfolio-website/preview-image.png)  
+*(Replace this link with an actual screenshot of your website)*
+
+---
+
+## 🌟 Live Demo
+
+Visit the live version of my portfolio website here:  
+**[https://aksharbisht2002.github.io/portfolio-website](https://aksharbisht2002.github.io/portfolio-website)**
+
+---
+
+## 📁 Project Structure
+
+Here’s an overview of the project structure:
+
+```
+portfolio-website/
+├── public/                 # Static files (index.html, favicon, etc.)
+├── src/
+│   ├── assets/             # Images and other media assets
+│   ├── components/         # Reusable React components
+│   ├── App.js              # Main application file
+│   └── index.js            # Entry point of the React app
+├── package.json            # Dependencies and scripts
+└── README.md               # Project documentation
+```
+
+---
+
+## 🚀 Features
+
+- **Responsive Design**: Works seamlessly across devices of all sizes.
+- **Project Showcase**: Displays my projects with live demos and source code links.
+- **Contact Section**: Includes a contact form for inquiries and social media links.
+- **Modern Technologies**: Built using React, HTML5, CSS3, and JavaScript.
+
+---
+
+## 🔧 Technologies Used
+
+- **Frontend**: React.js, HTML5, CSS3, JavaScript
+- **Deployment**: GitHub Pages
+- **Tools**: VS Code, npm, gh-pages
+
+---
+
+## ⚙️ Installation & Setup
+
+Follow these steps to set up the project locally:
+
+1. **Clone the Repository**:
+   ```bash
+   git clone https://github.com/aksharbisht2002/portfolio-website.git
+   cd portfolio-website
+   ```
+
+2. **Install Dependencies**:
+   ```bash
+   npm install
+   ```
+
+3. **Run the Development Server**:
+   ```bash
+   npm start
+   ```
+   Open [http://localhost:3000](http://localhost:3000) in your browser to view the app.
+
+4. **Build for Production**:
+   ```bash
+   npm run build
+   ```
+
+5. **Deploy to GitHub Pages**:
+   ```bash
+   npm run deploy
+   ```
+
+---
+
+## 📸 Screenshots
+
+*(Add screenshots of your portfolio website here)*  
+Example:  
+![Home Page](https://aksharbisht2002.github.io/portfolio-website/homepage.png)  
+![Projects Section](https://aksharbisht2002.github.io/portfolio-website/projects.png)
+
+---
+
+## 🛠️ Contributing
+
+Contributions are welcome! If you have suggestions or find any bugs, feel free to open an issue or submit a pull request.
+
+---
+
+## 📬 Contact
+
+Feel free to reach out to me:
+
+- **Email**: aksharbisht2002@example.com *(Replace with your email)*  
+- **Portfolio**: [https://aksharbisht2002.github.io/portfolio-website](https://aksharbisht2002.github.io/portfolio-website)  
+- **LinkedIn**: [https://www.linkedin.com/in/aksharbisht2002](https://www.linkedin.com/in/aksharbisht2002) *(Replace with your LinkedIn profile link)*
+
+---
+
+## 💡 Acknowledgments
+
+- React.js documentation for helping in building this project.
+- GitHub Pages for hosting the portfolio.
+- Everyone who reviewed and provided feedback.
+
+---
+
+Feel free to copy this and adapt it for your own portfolio! Let me know if you need further edits or additions.# Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
