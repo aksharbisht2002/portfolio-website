@@ -3,10 +3,7 @@
 
 Welcome to my personal portfolio website repository! This project showcases my skills, projects, and experiences as a software engineer and serves as a digital representation of my professional journey.
 
-![Portfolio Preview](https://aksharbisht2002.github.io/portfolio-website/preview-image.png)  
-*(Replace this link with an actual screenshot of your website)*
 
----
 
 ## 🌟 Live Demo
 
