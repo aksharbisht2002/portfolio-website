@@ -22,18 +22,15 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject",
     "predeploy": "npm run build",
-  "deploy": "gh-pages -d build"
-},
-
-  
+    "deploy": "gh-pages -d build"
+  },
   "eslintConfig": {
     "extends": [
       "react-app",
       "react-app/jest"
     ]
   },
-  "homepage": "https://github.com/aksharbisht2002>.github.io/<portfolio-website>",
-
+  "homepage": "https://aksharbisht2002.github.io/portfolio-website",
   "browserslist": {
     "production": [
       ">0.2%",
