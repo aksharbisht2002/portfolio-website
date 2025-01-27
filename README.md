@@ -99,9 +99,9 @@ Contributions are welcome! If you have suggestions or find any bugs, feel free t
 
 Feel free to reach out to me:
 
-- **Email**: aksharbisht2002@example.com *(Replace with your email)*  
+- **Email**: aksharbisht2002@example.com   
 - **Portfolio**: [https://aksharbisht2002.github.io/portfolio-website](https://aksharbisht2002.github.io/portfolio-website)  
-- **LinkedIn**: [https://www.linkedin.com/in/aksharbisht2002](https://www.linkedin.com/in/aksharbisht2002) *(Replace with your LinkedIn profile link)*
+- **LinkedIn**: [https://www.linkedin.com/in/aksharbisht2002](https://www.linkedin.com/in/aksharbisht2002) 
 
 ---
 
